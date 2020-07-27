@@ -1,1 +1,1 @@
-web: gunicorn katwalksdogs_app.wsgi
+web: gunicorn kat_backend.wsgi
