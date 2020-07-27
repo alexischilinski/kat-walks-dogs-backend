@@ -1,0 +1,1 @@
+web: gunicorn katwalksdogs_app.wsgi
